@@ -14,6 +14,7 @@ Get the last N characters from the word.
 Print the result.
 
 Step-by-Step Explanation
+
 Step 1: Read the input
 
 Read the input word using the input() function and store it in a variable word.
